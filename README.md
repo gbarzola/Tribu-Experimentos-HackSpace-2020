@@ -10,11 +10,11 @@ Semana 07-SET-2020 al 11-SET-2020
 
 | Autor | Link de Proyecto |
 | ------ | ------ |
-| EmanuelPinaud | [https://github.com/percypinaud/flutter_animations][PlDb] |
-| Jasonrla | [https://github.com/jasonrla/DragN-Drop][PlDb] |
-| Alin Javier | [https://github.com/alinpierojavier][PlDb] |
-| JHuamanraf | [https://github.com/JuanDavidHR][PlGh] |
-| Roberto Gonzales | [https://github.com/kirito9623][PlGd] |
-| Joan Leon | [https://github.com/leono34/Animacion_Java][PlOd] |
-| Emilio Garcia | [https://github.com/Emilio1525/calculadoraJavaScript/][PlMe] |
-| SoyVikman | [https://github.com/soyvikman/apinode][PlGa] |
+| EmanuelPinaud | [https://github.com/percypinaud/flutter_animations]|
+| Jasonrla | [https://github.com/jasonrla/DragN-Drop]|
+| Alin Javier | [https://github.com/alinpierojavier] |
+| JHuamanraf | [https://github.com/JuanDavidHR] |
+| Roberto Gonzales | [https://github.com/kirito9623] |
+| Joan Leon | [https://github.com/leono34/Animacion_Java] |
+| Emilio Garcia | [https://github.com/Emilio1525/calculadoraJavaScript/] |
+| SoyVikman | [https://github.com/soyvikman/apinode]|
